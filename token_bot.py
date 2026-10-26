@@ -1,6 +1,6 @@
 # token_bot.py
 # pip install discord.py
-# 봇 토큰: MTU2NDI0NjE5NDY4NjAwNTMwOQ.GcFmSi.wzLHc4sMoed3cjPIgsxl09kWmqAgcB-13unJpQ
+# 봇 토큰: MTU2NDI0NjE5NDY4NjAwNTMwOQ.GKin7n.tj93CN6Mm-P9VeluQweiKB4LIObkzc-pxkERF8
 
 import discord
 from discord import app_commands
@@ -9,7 +9,7 @@ import json
 import os
 from datetime import datetime
 
-BOT_TOKEN = "MTU2NDI0NjE5NDY4NjAwNTMwOQ.GcFmSi.wzLHc4sMoed3cjPIgsxl09kWmqAgcB-13unJpQ"
+BOT_TOKEN = "MTU2NDI0NjE5NDY4NjAwNTMwOQ.GKin7n.tj93CN6Mm-P9VeluQweiKB4LIObkzc-pxkERF8"
 TOKEN_FILE = "token.txt"          # 유저 토큰 저장 파일
 DATA_FILE = "users.json"          # 유저별 기록
 
